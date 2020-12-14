@@ -1,0 +1,13 @@
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\bin\Debug\netcoreapp3.1\EncapsulatedBehaviour.exe
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\bin\Debug\netcoreapp3.1\EncapsulatedBehaviour.deps.json
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\bin\Debug\netcoreapp3.1\EncapsulatedBehaviour.runtimeconfig.json
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\bin\Debug\netcoreapp3.1\EncapsulatedBehaviour.runtimeconfig.dev.json
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\bin\Debug\netcoreapp3.1\EncapsulatedBehaviour.dll
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\bin\Debug\netcoreapp3.1\EncapsulatedBehaviour.pdb
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.csprojAssemblyReference.cache
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.AssemblyInfoInputs.cache
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.AssemblyInfo.cs
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.csproj.CoreCompileInputs.cache
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.dll
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.pdb
+C:\Users\ruips\Desktop\Projetos\1. Universidade\Análise e Desenvolvimento de Software\ADS-Exercicios\EncapsulatedBehaviour\EncapsulatedBehaviour\obj\Debug\netcoreapp3.1\EncapsulatedBehaviour.genruntimeconfig.cache
