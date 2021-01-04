@@ -1,0 +1,13 @@
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\bin\Debug\netcoreapp3.1\Ex_DecoratorPattern.exe
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\bin\Debug\netcoreapp3.1\Ex_DecoratorPattern.deps.json
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\bin\Debug\netcoreapp3.1\Ex_DecoratorPattern.runtimeconfig.json
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\bin\Debug\netcoreapp3.1\Ex_DecoratorPattern.runtimeconfig.dev.json
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\bin\Debug\netcoreapp3.1\Ex_DecoratorPattern.dll
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\bin\Debug\netcoreapp3.1\Ex_DecoratorPattern.pdb
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.csprojAssemblyReference.cache
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.AssemblyInfo.cs
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.dll
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.pdb
+C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern\Ex_DecoratorPattern\obj\Debug\netcoreapp3.1\Ex_DecoratorPattern.genruntimeconfig.cache

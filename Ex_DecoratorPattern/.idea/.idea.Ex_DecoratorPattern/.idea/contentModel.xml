@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ruips\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ruips\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Ex_DecoratorPattern.-1516279633.00" t="ExcludeRecursive" />
+    <e p="C:\Users\ruips\Desktop\Projetos\1. Universidade\ADS\ADS-Exercicios\Ex_DecoratorPattern" t="IncludeFlat">
+      <e p="Ex_DecoratorPattern" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Decorator.cs" t="Include" />
+        <e p="Ex_DecoratorPattern.csproj" t="IncludeRecursive" />
+        <e p="Ham.cs" t="Include" />
+        <e p="IFood.cs" t="Include" />
+        <e p="Mushrooms.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Ex_DecoratorPattern.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="SimplePizza.cs" t="Include" />
+        <e p="Tomato.cs" t="Include" />
+      </e>
+      <e p="Ex_DecoratorPattern.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
