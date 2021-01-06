@@ -1,0 +1,13 @@
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\bin\Debug\netcoreapp3.1\Ex_ObserverPattern.exe
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\bin\Debug\netcoreapp3.1\Ex_ObserverPattern.deps.json
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\bin\Debug\netcoreapp3.1\Ex_ObserverPattern.runtimeconfig.json
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\bin\Debug\netcoreapp3.1\Ex_ObserverPattern.runtimeconfig.dev.json
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\bin\Debug\netcoreapp3.1\Ex_ObserverPattern.dll
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\bin\Debug\netcoreapp3.1\Ex_ObserverPattern.pdb
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.csprojAssemblyReference.cache
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.AssemblyInfo.cs
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.dll
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.pdb
+C:\Users\ruips\Downloads\Ex_ObserverPattern\Ex_ObserverPattern\Ex_ObserverPattern\obj\Debug\netcoreapp3.1\Ex_ObserverPattern.genruntimeconfig.cache

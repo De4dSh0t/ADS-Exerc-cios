@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8dac5d59-dcbc-4950-9743-f87f534d2d06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/Decorator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/Ham.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/IFood.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/Mushrooms.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/SimplePizza.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_DecoratorPattern/Tomato.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Ex_DecoratorPattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ex_DecoratorPattern/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +25,12 @@
       <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Pizza.cs" />
       <option value="$PROJECT_DIR$/Ex_DecoratorPattern/IDecorator.cs" />
       <option value="$PROJECT_DIR$/Ex_DecoratorPattern/IFood.cs" />
-      <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Ham.cs" />
-      <option value="$PROJECT_DIR$/Ex_DecoratorPattern/SimplePizza.cs" />
       <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Decorator.cs" />
+      <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Program.cs" />
+      <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Ham.cs" />
       <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Mushrooms.cs" />
       <option value="$PROJECT_DIR$/Ex_DecoratorPattern/Tomato.cs" />
+      <option value="$PROJECT_DIR$/Ex_DecoratorPattern/SimplePizza.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1mblIz0iKD5eXNUOGiVEK0VtndS" />
@@ -79,14 +74,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609770097282</updated>
-      <workItem from="1609770106202" duration="2411000" />
+      <workItem from="1609770106202" duration="3295000" />
+      <workItem from="1609921527791" duration="804000" />
     </task>
+    <task id="LOCAL-00001" summary="Added DecoratorPattern exercise">
+      <created>1609772919040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609772919040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -98,8 +102,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Added DecoratorPattern exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added DecoratorPattern exercise" />
   </component>
 </project>
